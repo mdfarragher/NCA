@@ -8,3 +8,7 @@ Regression/BikeDemandPrediction/bin/
 Regression/BikeDemandPrediction/obj/
 Regression/TaxiFarePrediction/bin/
 Regression/TaxiFarePrediction/obj/
+MulticlassClassification/DigitRecognition/bin/
+MulticlassClassification/DigitRecognition/obj/
+MulticlassClassification/DigitRecognition/mnist_test.csv
+MulticlassClassification/DigitRecognition/mnist_train.csv
