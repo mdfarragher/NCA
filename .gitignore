@@ -1,0 +1,10 @@
+BinaryClassification/HeartDiseasePrediction/bin/
+BinaryClassification/HeartDiseasePrediction/obj/
+BinaryClassification/SpamDetection/bin/
+BinaryClassification/SpamDetection/obj/
+BinaryClassification/TitanicPrediction/bin/
+BinaryClassification/TitanicPrediction/obj/
+Regression/BikeDemandPrediction/bin/
+Regression/BikeDemandPrediction/obj/
+Regression/TaxiFarePrediction/bin/
+Regression/TaxiFarePrediction/obj/
